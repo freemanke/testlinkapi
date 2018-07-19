@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/freemanke/testlinkapi</licenseUrl>
+    <projectUrl>https://github.com/freemanke/testlinkapi</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/freemanke/testlinkapi/master/package.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>First release.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>TestLink API C#</tags>
+  </metadata>
+</package>
